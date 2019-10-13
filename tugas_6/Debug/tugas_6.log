@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  home.cpp
+d:\tercapai\smt5\grafkom\tugas_6\tugas_6\home.cpp(113): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  tugas_6.vcxproj -> D:\TerCapai\SMT5\GRAFKOM\tugas_6\Debug\tugas_6.exe

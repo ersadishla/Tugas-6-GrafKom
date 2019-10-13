@@ -1,0 +1,2 @@
+http://nehe.gamedev.net/tutorial/texture_mapping/12038/
+https://www.codemiles.com/c-opengl-examples/add-texture-to-cube3d-t9181.html
